@@ -17,7 +17,7 @@ Haram level: 100% 🍷🔥
 ### Installation:
 1.sponses, this program will
    ```bash
-   git clone https://github.com/your-username/haram-finder.git
+   git clone https://github.com/parsajavanshir/haram-finder.git
    cd haram-finder
 
  2. Run the program:
